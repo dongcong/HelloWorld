@@ -1,2 +1,7 @@
 # HelloWorld
-仅仅是为了练习一下
+public class Person{
+   public static void main(String[] args){
+      System.out.println("Hello World");
+   }
+
+}
